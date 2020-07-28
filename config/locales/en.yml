@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  confirm: "Are you sure you want to delete this company? It will be permanently deleted."
+  saved: Saved
+  changes_saved: Changes Saved
+  company_deleted_successfully: Company deleted successfully
+  error:
+    email_err: "is not a valid email format, valid format is: company@getmainstreet.com"
+    zip_code: "should be a valid 5 digit US zip code"
